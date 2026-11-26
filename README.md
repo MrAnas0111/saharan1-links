@@ -4,8 +4,8 @@
 - Title: "Video Call" only — no "with Saharan1" line
 - No blue tick
 - Colours: background #1a1a1a, green #00c853
-- CONTINUE → https://saharan1.com/
-- VIEW → https://saharan1.com/
+- CONTINUE → https://saharan1.com/best-apps-free-number-for-whatsapp/
+- VIEW → https://saharan1.com/best-apps-free-number-for-whatsapp/
 
 ## Files
 
@@ -40,8 +40,8 @@ Tip: keep index.html and 404.html identical after every change.
 
 1. Open the live GitHub Pages URL — "Video Call" page should appear.
 2. Open `/whatsapp`, `/video`, `/offer`, `/hello` — same page should appear via 404.html.
-3. Click CONTINUE — saharan1.com should open.
-4. Click VIEW — saharan1.com should open.
+3. Click CONTINUE — https://saharan1.com/best-apps-free-number-for-whatsapp/ should open.
+4. Click VIEW — https://saharan1.com/best-apps-free-number-for-whatsapp/ should open.
 
 ## Cost
 
